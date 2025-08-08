@@ -4,6 +4,7 @@ import com.bank.AccountAPI.Account.API.Project.DTO.AccountDTO;
 import com.bank.AccountAPI.Account.API.Project.Entity.Account;
 import org.mapstruct.Mapper;
 
+//modifiedgit
 @Mapper(componentModel = "spring")
 public interface AccountMapper {
 
